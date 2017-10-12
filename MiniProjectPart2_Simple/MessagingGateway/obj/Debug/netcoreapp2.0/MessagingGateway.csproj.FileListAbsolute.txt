@@ -1,0 +1,11 @@
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\bin\Debug\netcoreapp2.0\MessagingGateway.deps.json
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\bin\Debug\netcoreapp2.0\MessagingGateway.dll
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.csprojResolveAssemblyReference.cache
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.csproj.CoreCompileInputs.cache
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.AssemblyInfoInputs.cache
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.AssemblyInfo.cs
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\bin\Debug\netcoreapp2.0\MessagingGateway.pdb
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\bin\Debug\netcoreapp2.0\Messages.dll
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\bin\Debug\netcoreapp2.0\Messages.pdb
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.dll
+E:\PBASW\SystemIntegration\MiniProject\MiniProjectPart2_Simple\MiniProjectPart2_Simple\MessagingGateway\obj\Debug\netcoreapp2.0\MessagingGateway.pdb
